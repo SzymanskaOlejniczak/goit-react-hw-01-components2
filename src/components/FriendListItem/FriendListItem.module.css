@@ -1,0 +1,29 @@
+.statusOnline {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .statusOffline {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .name {
+    font-size: 18px;
+    line-height: 1.62;
+    font-weight: 18px;
+    margin-left: 20px;
+  }
+  .item {
+    display: flex;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+  }
